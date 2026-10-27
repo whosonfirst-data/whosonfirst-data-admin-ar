@@ -17,14 +17,8 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:deu_x_preferred":[
-        "Operation Massaker"
-    ],
-    "name:pol_x_preferred":[
-        "Operaci\u00f3n Masacre"
-    ],
     "name:spa_x_preferred":[
-        "Operaci\u00f3n Masacre"
+        "Jos\u00e9 Le\u00f3n Su\u00e1rez"
     ],
     "name:und_x_variant":[
         "Jos\u00e9 L. Su\u00e1rez"
@@ -58,7 +52,8 @@
     "wof:concordances":{
         "gn:id":3433323,
         "gp:id":330780,
-        "qs_pg:id":232774
+        "qs_pg:id":232774,
+        "wd:id":"Q5941007"
     },
     "wof:country":"AR",
     "wof:created":1459010155,
@@ -73,7 +68,7 @@
         }
     ],
     "wof:id":421203521,
-    "wof:lastmodified":1566588165,
+    "wof:lastmodified":1791444831,
     "wof:name":"Jos\u00e9 Le\u00f3n Su\u00e1rez",
     "wof:parent_id":1108717969,
     "wof:placetype":"locality",
