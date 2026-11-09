@@ -43,7 +43,7 @@
         "wk:page":"Amboy_%28C%C3%B3rdoba%29"
     },
     "wof:country":"AR",
-    "wof:geomhash":"0cabd8efd1159da3e7b74ce2984e412f",
+    "wof:geomhash":"fdef963cd2a95c31c5f9d93029425e69",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,5 +69,5 @@
     -64.58766999999999,
     -32.17406
 ],
-  "geometry": {"coordinates":[-64.58766999999999,-32.17406],"type":"Point"}
+  "geometry": {"coordinates":[-64.58767,-32.17406],"type":"Point"}
 }

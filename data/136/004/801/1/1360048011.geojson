@@ -49,7 +49,7 @@
         "wk:page":"Carpinter%C3%ADa%2C_San_Luis"
     },
     "wof:country":"AR",
-    "wof:geomhash":"8dc262b8ca2b551973fa9f9e055da74a",
+    "wof:geomhash":"1727a7520f64cf21f749d9d6ccfff0f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -65.01120999999999,
     -32.40702
 ],
-  "geometry": {"coordinates":[-65.01120999999999,-32.40702],"type":"Point"}
+  "geometry": {"coordinates":[-65.01121,-32.40702],"type":"Point"}
 }

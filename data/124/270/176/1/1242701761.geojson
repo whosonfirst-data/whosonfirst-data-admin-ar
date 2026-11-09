@@ -54,7 +54,7 @@
         "wk:page":"Garayalde"
     },
     "wof:country":"AR",
-    "wof:geomhash":"7ec6db57105a3689bfa0b1930846e2da",
+    "wof:geomhash":"d284120a466831d91c4447be4e617d84",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,5 +80,5 @@
     -66.60925999999999,
     -44.68709000000001
 ],
-  "geometry": {"coordinates":[-66.60925999999999,-44.68709000000001],"type":"Point"}
+  "geometry": {"coordinates":[-66.60926,-44.68709],"type":"Point"}
 }

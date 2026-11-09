@@ -43,7 +43,7 @@
         "wk:page":"Saujil_%28Tinogasta%29"
     },
     "wof:country":"AR",
-    "wof:geomhash":"de580f264c88e1386ca85b7e3b0fdf40",
+    "wof:geomhash":"ff1b3278827d18cc0132e94c085cc936",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,5 +69,5 @@
     -67.61268000000001,
     -27.55947
 ],
-  "geometry": {"coordinates":[-67.61268000000001,-27.55947],"type":"Point"}
+  "geometry": {"coordinates":[-67.61268,-27.55947],"type":"Point"}
 }

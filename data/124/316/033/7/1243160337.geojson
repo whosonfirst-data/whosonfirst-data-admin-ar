@@ -58,7 +58,7 @@
         "wk:page":"Abramo%2C_La_Pampa"
     },
     "wof:country":"AR",
-    "wof:geomhash":"43ccd14cdc6bb19f4102f6c742a818a4",
+    "wof:geomhash":"c81a1af601143bd04599f4e35479b1b3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,5 +84,5 @@
     -63.85149000000001,
     -37.89507
 ],
-  "geometry": {"coordinates":[-63.85149000000001,-37.89507],"type":"Point"}
+  "geometry": {"coordinates":[-63.85149,-37.89507],"type":"Point"}
 }

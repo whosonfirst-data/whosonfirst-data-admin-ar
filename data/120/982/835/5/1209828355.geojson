@@ -49,7 +49,7 @@
         "wk:page":"Antofalla%2C_Catamarca"
     },
     "wof:country":"AR",
-    "wof:geomhash":"3fff66a3884c8b5f7901def9dbf13551",
+    "wof:geomhash":"f8ccf26b72f4b9108a4ec263ef6847ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -67.61941999999999,
     -25.51638
 ],
-  "geometry": {"coordinates":[-67.61941999999999,-25.51638],"type":"Point"}
+  "geometry": {"coordinates":[-67.61942,-25.51638],"type":"Point"}
 }

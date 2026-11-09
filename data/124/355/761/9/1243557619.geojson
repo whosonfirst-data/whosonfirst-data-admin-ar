@@ -46,7 +46,7 @@
         "wk:page":"Ramblones"
     },
     "wof:country":"AR",
-    "wof:geomhash":"097d9c40f5f5ab3bf23dd9352affe16d",
+    "wof:geomhash":"6d549fcdc87fcb9a400ba108f3787a83",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -65.40125,
     -29.16199000000001
 ],
-  "geometry": {"coordinates":[-65.40125,-29.16199000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.40125,-29.16199],"type":"Point"}
 }

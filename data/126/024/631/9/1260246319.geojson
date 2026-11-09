@@ -61,7 +61,7 @@
         "wk:page":"Romang%2C_Santa_Fe"
     },
     "wof:country":"AR",
-    "wof:geomhash":"27efc0d1a3488f776c5b90180f8ca945",
+    "wof:geomhash":"26089abe53ff39712e18808690933d31",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,5 +87,5 @@
     -59.74806,
     -29.50162000000001
 ],
-  "geometry": {"coordinates":[-59.74806,-29.50162000000001],"type":"Point"}
+  "geometry": {"coordinates":[-59.74806,-29.50162],"type":"Point"}
 }

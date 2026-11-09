@@ -52,7 +52,7 @@
         "wk:page":"Tolloche"
     },
     "wof:country":"AR",
-    "wof:geomhash":"430bb0fafb77195b88dba293e84148b2",
+    "wof:geomhash":"79e8bb68f318a3070f2f24afce6e787c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -63.53333000000001,
     -25.5
 ],
-  "geometry": {"coordinates":[-63.53333000000001,-25.5],"type":"Point"}
+  "geometry": {"coordinates":[-63.53333,-25.5],"type":"Point"}
 }

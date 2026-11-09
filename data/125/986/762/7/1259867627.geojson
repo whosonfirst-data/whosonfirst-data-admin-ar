@@ -52,7 +52,7 @@
         "wk:page":"Anzoategui%2C_La_Pampa"
     },
     "wof:country":"AR",
-    "wof:geomhash":"ebb1ab0288524fd373f07585cb6047bb",
+    "wof:geomhash":"cf5130ce19c54c714894972d8de48e75",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -63.85469000000001,
     -38.9706
 ],
-  "geometry": {"coordinates":[-63.85469000000001,-38.9706],"type":"Point"}
+  "geometry": {"coordinates":[-63.85469,-38.9706],"type":"Point"}
 }

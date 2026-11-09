@@ -46,7 +46,7 @@
         "wk:page":"Haumonia"
     },
     "wof:country":"AR",
-    "wof:geomhash":"95784c3a90ec884b5a4d766109b35a8e",
+    "wof:geomhash":"5618195d324b0164831efe5319b4bbc3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -60.18333000000001,
     -27.48333
 ],
-  "geometry": {"coordinates":[-60.18333000000001,-27.48333],"type":"Point"}
+  "geometry": {"coordinates":[-60.18333,-27.48333],"type":"Point"}
 }

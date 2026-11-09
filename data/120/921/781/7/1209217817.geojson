@@ -46,7 +46,7 @@
         "wk:page":"Cordobita"
     },
     "wof:country":"AR",
-    "wof:geomhash":"bdcc5573b61375381d6697b44170d1ba",
+    "wof:geomhash":"607c8e5aa1d052a4c67b223617b93c8f",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -69,5 +69,5 @@
     -67.2094,
     -28.30164000000001
 ],
-  "geometry": {"coordinates":[-67.2094,-28.30164000000001],"type":"Point"}
+  "geometry": {"coordinates":[-67.2094,-28.30164],"type":"Point"}
 }

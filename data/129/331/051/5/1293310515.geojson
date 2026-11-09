@@ -55,7 +55,7 @@
         "wk:page":"Samboromb%C3%B3n"
     },
     "wof:country":"AR",
-    "wof:geomhash":"2b40c3271086dbe491f0743f688eb785",
+    "wof:geomhash":"c9e5ad6f4496321b696403a6726c12f0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -58.28333000000001,
     -35.21667
 ],
-  "geometry": {"coordinates":[-58.28333000000001,-35.21667],"type":"Point"}
+  "geometry": {"coordinates":[-58.28333,-35.21667],"type":"Point"}
 }

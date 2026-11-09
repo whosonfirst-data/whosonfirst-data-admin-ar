@@ -55,7 +55,7 @@
         "wk:page":"Villa_R%C3%ADo_Bermejito"
     },
     "wof:country":"AR",
-    "wof:geomhash":"c5dba31c43d381f57214b96bfcb74a29",
+    "wof:geomhash":"f537d07729d3bc56324cf83627fce567",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -60.26556,
     -25.63722000000001
 ],
-  "geometry": {"coordinates":[-60.26556,-25.63722000000001],"type":"Point"}
+  "geometry": {"coordinates":[-60.26556,-25.63722],"type":"Point"}
 }

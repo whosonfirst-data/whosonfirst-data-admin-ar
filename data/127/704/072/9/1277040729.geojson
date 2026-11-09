@@ -49,7 +49,7 @@
         "wk:page":"Fortuna%2C_San_Luis"
     },
     "wof:country":"AR",
-    "wof:geomhash":"9145631856e3967dc4c780942ca0e582",
+    "wof:geomhash":"8257d45d42ba1f946f10384f76f98452",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -65.38306999999999,
     -35.12847
 ],
-  "geometry": {"coordinates":[-65.38306999999999,-35.12847],"type":"Point"}
+  "geometry": {"coordinates":[-65.38307,-35.12847],"type":"Point"}
 }

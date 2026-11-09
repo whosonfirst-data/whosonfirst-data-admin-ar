@@ -52,7 +52,7 @@
         "wk:page":"Luis_Palacios%2C_Santa_Fe"
     },
     "wof:country":"AR",
-    "wof:geomhash":"6be343ac0a26a8a792875d9a278e9d4e",
+    "wof:geomhash":"a4f5e7aa9e7896b48b64ee7b9bf5d18a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -60.90378000000001,
     -32.78229
 ],
-  "geometry": {"coordinates":[-60.90378000000001,-32.78229],"type":"Point"}
+  "geometry": {"coordinates":[-60.90378,-32.78229],"type":"Point"}
 }

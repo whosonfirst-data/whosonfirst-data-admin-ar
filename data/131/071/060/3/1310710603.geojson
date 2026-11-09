@@ -52,7 +52,7 @@
         "wk:page":"Fuerte_Quemado"
     },
     "wof:country":"AR",
-    "wof:geomhash":"a0b988df63bf017c4ed4a83d17be5cb9",
+    "wof:geomhash":"ba8a847cde2b153b04fb4b50cd7e66a6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -66.04881999999999,
     -26.62398
 ],
-  "geometry": {"coordinates":[-66.04881999999999,-26.62398],"type":"Point"}
+  "geometry": {"coordinates":[-66.04882,-26.62398],"type":"Point"}
 }

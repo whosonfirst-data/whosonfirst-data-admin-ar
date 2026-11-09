@@ -46,7 +46,7 @@
         "wk:page":"Villa_San_Marcial"
     },
     "wof:country":"AR",
-    "wof:geomhash":"08b23c35778504063ccac73d4f51b70a",
+    "wof:geomhash":"b2722001fa3b7d3c3cf7f7f191b07e0e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -58.93333000000001,
     -32.16667
 ],
-  "geometry": {"coordinates":[-58.93333000000001,-32.16667],"type":"Point"}
+  "geometry": {"coordinates":[-58.93333,-32.16667],"type":"Point"}
 }

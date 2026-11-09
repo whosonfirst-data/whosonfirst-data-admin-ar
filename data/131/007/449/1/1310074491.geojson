@@ -50,7 +50,7 @@
         "wk:page":"Colonia_El_Simbolar"
     },
     "wof:country":"AR",
-    "wof:geomhash":"257e3fcad12fbb892554c14a042a4e69",
+    "wof:geomhash":"4e5baeebf16350b57671736d354e233d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -64.89544000000001,
     -27.97167
 ],
-  "geometry": {"coordinates":[-64.89544000000001,-27.97167],"type":"Point"}
+  "geometry": {"coordinates":[-64.89544,-27.97167],"type":"Point"}
 }

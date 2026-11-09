@@ -64,7 +64,7 @@
         "wk:page":"Herrera%2C_Santiago_del_Estero"
     },
     "wof:country":"AR",
-    "wof:geomhash":"f4e4f6ef7f608f11566b1d8add2e0214",
+    "wof:geomhash":"6492aee18b610fb7284ca2dd595f01c9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,5 +90,5 @@
     -62.34583000000001,
     -28.38731
 ],
-  "geometry": {"coordinates":[-62.34583000000001,-28.38731],"type":"Point"}
+  "geometry": {"coordinates":[-62.34583,-28.38731],"type":"Point"}
 }

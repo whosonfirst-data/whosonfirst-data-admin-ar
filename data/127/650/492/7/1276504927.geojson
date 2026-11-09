@@ -90,7 +90,7 @@
         "wk:page":"Tolhuin"
     },
     "wof:country":"AR",
-    "wof:geomhash":"c90ce5f2d6887d1961887067f6f9e3d7",
+    "wof:geomhash":"d15b822cba16d397093ea0c2cb2d471e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,5 +118,5 @@
     -67.1955,
     -54.51083000000001
 ],
-  "geometry": {"coordinates":[-67.1955,-54.51083000000001],"type":"Point"}
+  "geometry": {"coordinates":[-67.1955,-54.51083],"type":"Point"}
 }

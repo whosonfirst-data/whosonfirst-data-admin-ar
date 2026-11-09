@@ -55,7 +55,7 @@
         "wk:page":"Jaramillo%2C_Santa_Cruz"
     },
     "wof:country":"AR",
-    "wof:geomhash":"79f7540d0976bec3cf0c3767476e19de",
+    "wof:geomhash":"2c31bed6c0db29b1c79719519a0157e9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -67.14256999999999,
     -47.18311
 ],
-  "geometry": {"coordinates":[-67.14256999999999,-47.18311],"type":"Point"}
+  "geometry": {"coordinates":[-67.14257,-47.18311],"type":"Point"}
 }

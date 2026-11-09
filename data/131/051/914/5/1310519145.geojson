@@ -55,7 +55,7 @@
         "wk:page":"San_Bernardo_del_Tuy%C3%BA"
     },
     "wof:country":"AR",
-    "wof:geomhash":"56cef6201a9727cb53871ace8dd52b49",
+    "wof:geomhash":"ab27d046584cef5884d68b8aed860321",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -56.68293000000001,
     -36.69733
 ],
-  "geometry": {"coordinates":[-56.68293000000001,-36.69733],"type":"Point"}
+  "geometry": {"coordinates":[-56.68293,-36.69733],"type":"Point"}
 }

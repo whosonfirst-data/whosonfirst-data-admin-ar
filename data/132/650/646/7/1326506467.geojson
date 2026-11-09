@@ -49,7 +49,7 @@
         "wk:page":"Coronel_Mollinedo"
     },
     "wof:country":"AR",
-    "wof:geomhash":"0b2cc43426a1f51ec36a43519ac437b6",
+    "wof:geomhash":"1ceba7abd97afe7c666fef2e1ce5af3c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -64.09853000000001,
     -24.54178
 ],
-  "geometry": {"coordinates":[-64.09853000000001,-24.54178],"type":"Point"}
+  "geometry": {"coordinates":[-64.09853,-24.54178],"type":"Point"}
 }

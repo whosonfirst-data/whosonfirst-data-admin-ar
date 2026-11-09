@@ -57,7 +57,7 @@
         "wk:page":"Cerro_Polic%C3%ADa"
     },
     "wof:country":"AR",
-    "wof:geomhash":"c73a19c7604d824a467cb360b72a7879",
+    "wof:geomhash":"65098070d5c608c2846c3bf46d0d28ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -83,5 +83,5 @@
     -68.51666999999999,
     -39.73333
 ],
-  "geometry": {"coordinates":[-68.51666999999999,-39.73333],"type":"Point"}
+  "geometry": {"coordinates":[-68.51667,-39.73333],"type":"Point"}
 }

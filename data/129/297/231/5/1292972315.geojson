@@ -43,7 +43,7 @@
         "wk:page":"Yacuy_%28Salta%29"
     },
     "wof:country":"AR",
-    "wof:geomhash":"06c9f04c035b187c1f877bccc87dfd9e",
+    "wof:geomhash":"3aefab3dcef50674d156fd0cddf7eb69",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,5 +69,5 @@
     -63.75588000000001,
     -22.36938
 ],
-  "geometry": {"coordinates":[-63.75588000000001,-22.36938],"type":"Point"}
+  "geometry": {"coordinates":[-63.75588,-22.36938],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Ceballos_%28La_Pampa%29"
     },
     "wof:country":"AR",
-    "wof:geomhash":"daca730fda46009862c77255a6d5e6c2",
+    "wof:geomhash":"d7064d655154d6d802c81560056c5bb4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -74,5 +74,5 @@
     -63.77713000000001,
     -35.29008
 ],
-  "geometry": {"coordinates":[-63.77713000000001,-35.29008],"type":"Point"}
+  "geometry": {"coordinates":[-63.77713,-35.29008],"type":"Point"}
 }

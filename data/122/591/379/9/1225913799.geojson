@@ -52,7 +52,7 @@
         "wk:page":"Mencu%C3%A9"
     },
     "wof:country":"AR",
-    "wof:geomhash":"94890bc8495e7cde6940da7fc304b359",
+    "wof:geomhash":"faa3affa1367a9a1ce44c94f6773ad31",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -69.61178000000001,
     -40.4233
 ],
-  "geometry": {"coordinates":[-69.61178000000001,-40.4233],"type":"Point"}
+  "geometry": {"coordinates":[-69.61178,-40.4233],"type":"Point"}
 }

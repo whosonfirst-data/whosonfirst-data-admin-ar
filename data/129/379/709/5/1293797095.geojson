@@ -49,7 +49,7 @@
         "wk:page":"El_Pajonal"
     },
     "wof:country":"AR",
-    "wof:geomhash":"7b023517e8e0a526763284cb1af07b05",
+    "wof:geomhash":"b0547f9b0e4126e3dc533dedecb8a6ee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -66.29561,
     -28.37192000000001
 ],
-  "geometry": {"coordinates":[-66.29561,-28.37192000000001],"type":"Point"}
+  "geometry": {"coordinates":[-66.29561,-28.37192],"type":"Point"}
 }

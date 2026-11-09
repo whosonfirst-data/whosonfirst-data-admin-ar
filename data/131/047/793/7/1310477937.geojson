@@ -54,7 +54,7 @@
         "wk:page":"Padre_Lozano"
     },
     "wof:country":"AR",
-    "wof:geomhash":"cf0dc8acea4f38636c6ea13f74dbfba8",
+    "wof:geomhash":"4f5165733e3745f63f93869680ae8fce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,5 +80,5 @@
     -63.87519,
     -23.21492000000001
 ],
-  "geometry": {"coordinates":[-63.87519,-23.21492000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.87519,-23.21492],"type":"Point"}
 }

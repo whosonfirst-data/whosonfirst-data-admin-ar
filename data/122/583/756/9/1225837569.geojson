@@ -52,7 +52,7 @@
         "wk:page":"Cazadores_Correntinos"
     },
     "wof:country":"AR",
-    "wof:geomhash":"d558e009d6197cd199ce82ca2c115f92",
+    "wof:geomhash":"7911d0d266a44c7ff4ec06001b341294",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -58.28333000000001,
     -29.96667
 ],
-  "geometry": {"coordinates":[-58.28333000000001,-29.96667],"type":"Point"}
+  "geometry": {"coordinates":[-58.28333,-29.96667],"type":"Point"}
 }

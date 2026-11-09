@@ -55,7 +55,7 @@
         "wk:page":"Desiderio_Tello"
     },
     "wof:country":"AR",
-    "wof:geomhash":"540a564d48d1060f675304d6db5a983c",
+    "wof:geomhash":"a4ab4da3060d8480071a90a3fe296b21",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -66.31548000000001,
     -31.21154000000001
 ],
-  "geometry": {"coordinates":[-66.31548000000001,-31.21154000000001],"type":"Point"}
+  "geometry": {"coordinates":[-66.31548,-31.21154],"type":"Point"}
 }

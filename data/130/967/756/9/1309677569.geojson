@@ -46,7 +46,7 @@
         "wk:page":"Mosmota"
     },
     "wof:country":"AR",
-    "wof:geomhash":"3d5be3535f0f7be363b36fbbe4ae1df3",
+    "wof:geomhash":"71bf87fef1bf8222e236381cdcfb8fa6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -66.97268000000001,
     -33.6694
 ],
-  "geometry": {"coordinates":[-66.97268000000001,-33.6694],"type":"Point"}
+  "geometry": {"coordinates":[-66.97268,-33.6694],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"Mes%C3%B3n_de_Fierro"
     },
     "wof:country":"AR",
-    "wof:geomhash":"0aeec71c16505676fd6c180446796b62",
+    "wof:geomhash":"0d20e692a4da7c42fe07a9a32722fc33",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -61.01723000000001,
     -27.42957
 ],
-  "geometry": {"coordinates":[-61.01723000000001,-27.42957],"type":"Point"}
+  "geometry": {"coordinates":[-61.01723,-27.42957],"type":"Point"}
 }

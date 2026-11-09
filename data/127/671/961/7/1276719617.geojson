@@ -58,7 +58,7 @@
         "wk:page":"Las_Cejas"
     },
     "wof:country":"AR",
-    "wof:geomhash":"e404eb266a1be62e60020d7672e241ff",
+    "wof:geomhash":"f1293e51c604e6f3ce7fd5a979658f40",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,5 +84,5 @@
     -64.74235999999999,
     -26.88671
 ],
-  "geometry": {"coordinates":[-64.74235999999999,-26.88671],"type":"Point"}
+  "geometry": {"coordinates":[-64.74236,-26.88671],"type":"Point"}
 }

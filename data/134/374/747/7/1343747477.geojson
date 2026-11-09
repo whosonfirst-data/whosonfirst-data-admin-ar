@@ -49,7 +49,7 @@
         "wk:page":"General_Almada"
     },
     "wof:country":"AR",
-    "wof:geomhash":"f60f83895e67dc22484b603f6679f415",
+    "wof:geomhash":"cf5bd34767d22791c1adc6a49d9b124d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -58.80473000000001,
     -32.8369
 ],
-  "geometry": {"coordinates":[-58.80473000000001,-32.8369],"type":"Point"}
+  "geometry": {"coordinates":[-58.80473,-32.8369],"type":"Point"}
 }

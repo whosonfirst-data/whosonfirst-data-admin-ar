@@ -54,7 +54,7 @@
         "wk:page":"Enrique_Carb%C3%B3%2C_Argentina"
     },
     "wof:country":"AR",
-    "wof:geomhash":"b72fecf03e9282e89d711e2599d6d864",
+    "wof:geomhash":"33debb97ee01c3494a2354a03aee6cc5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,5 +80,5 @@
     -59.20934000000001,
     -33.14823
 ],
-  "geometry": {"coordinates":[-59.20934000000001,-33.14823],"type":"Point"}
+  "geometry": {"coordinates":[-59.20934,-33.14823],"type":"Point"}
 }

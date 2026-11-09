@@ -47,7 +47,7 @@
         "wk:page":"San_Blas_de_los_Sauces"
     },
     "wof:country":"AR",
-    "wof:geomhash":"9c3dcaf8d9e17f3916cbca14f17d9e5e",
+    "wof:geomhash":"b72208ed907db0e2009527334fc66954",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,5 +73,5 @@
     -67.09340999999999,
     -28.41051
 ],
-  "geometry": {"coordinates":[-67.09340999999999,-28.41051],"type":"Point"}
+  "geometry": {"coordinates":[-67.09341,-28.41051],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"El_Divisadero%2C_Catamarca"
     },
     "wof:country":"AR",
-    "wof:geomhash":"2b08c32766041e62d4038c3081e9ac2a",
+    "wof:geomhash":"86b9e3a3bc939d732121bb4acc0c2e1f",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -69,5 +69,5 @@
     -65.45258000000001,
     -29.202
 ],
-  "geometry": {"coordinates":[-65.45258000000001,-29.202],"type":"Point"}
+  "geometry": {"coordinates":[-65.45258,-29.202],"type":"Point"}
 }

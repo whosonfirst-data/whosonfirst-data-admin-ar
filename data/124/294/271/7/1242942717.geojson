@@ -52,7 +52,7 @@
         "wk:page":"Clemente_Onelli%2C_R%C3%ADo_Negro"
     },
     "wof:country":"AR",
-    "wof:geomhash":"29a2185ad72cf3360ac04f062ab1c861",
+    "wof:geomhash":"9fba8873a39386f3a0be88f250c8959d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -70.03815999999999,
     -41.24446
 ],
-  "geometry": {"coordinates":[-70.03815999999999,-41.24446],"type":"Point"}
+  "geometry": {"coordinates":[-70.03816,-41.24446],"type":"Point"}
 }

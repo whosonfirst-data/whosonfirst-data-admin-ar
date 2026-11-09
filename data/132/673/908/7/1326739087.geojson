@@ -46,7 +46,7 @@
         "wk:page":"El_Ba%C3%B1ado_%28La_Paz%29"
     },
     "wof:country":"AR",
-    "wof:geomhash":"a5ea69a704a966d2faca0ddaf57d26e1",
+    "wof:geomhash":"4cda12e0cd4ba9b0199e334ed37a86d5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -65.43391,
     -29.19372000000001
 ],
-  "geometry": {"coordinates":[-65.43391,-29.19372000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.43391,-29.19372],"type":"Point"}
 }

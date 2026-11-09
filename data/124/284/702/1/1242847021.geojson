@@ -46,7 +46,7 @@
         "wk:page":"Chelfor%C3%B3"
     },
     "wof:country":"AR",
-    "wof:geomhash":"40853259ece1ae04a90fe525b261745c",
+    "wof:geomhash":"1f8df8b22784a56c270b5903823c0c17",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -66.52208,
     -39.08734000000001
 ],
-  "geometry": {"coordinates":[-66.52208,-39.08734000000001],"type":"Point"}
+  "geometry": {"coordinates":[-66.52208,-39.08734],"type":"Point"}
 }

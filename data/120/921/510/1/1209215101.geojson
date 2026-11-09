@@ -61,7 +61,7 @@
         "wk:page":"Tecka"
     },
     "wof:country":"AR",
-    "wof:geomhash":"42f0864ed1b3785a0bc4910ca1e33911",
+    "wof:geomhash":"415f2aa5689af0a53676139ed8438248",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -84,5 +84,5 @@
     -70.8102,
     -43.49489000000001
 ],
-  "geometry": {"coordinates":[-70.81019999999999,-43.49489000000001],"type":"Point"}
+  "geometry": {"coordinates":[-70.8102,-43.49489],"type":"Point"}
 }

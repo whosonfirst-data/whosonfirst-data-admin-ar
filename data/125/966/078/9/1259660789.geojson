@@ -46,7 +46,7 @@
         "wk:page":"Cha%C3%B1ar_%28La_Rioja%29"
     },
     "wof:country":"AR",
-    "wof:geomhash":"3c0fce00fe8af2dde900979627cd0be3",
+    "wof:geomhash":"0d5006ff9a69f2a4db1df25157214b8c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -65.95612,
     -30.54272000000001
 ],
-  "geometry": {"coordinates":[-65.95612,-30.54272000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.95612,-30.54272],"type":"Point"}
 }

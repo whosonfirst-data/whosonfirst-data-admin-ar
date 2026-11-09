@@ -57,7 +57,7 @@
         "wk:page":"Las_Tejas"
     },
     "wof:country":"AR",
-    "wof:geomhash":"b1d4e564b1cc6687419f719c7426fd56",
+    "wof:geomhash":"51b6eacbb54ef8abc5d90618daebe447",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -83,5 +83,5 @@
     -65.76666999999999,
     -28.71667
 ],
-  "geometry": {"coordinates":[-65.76666999999999,-28.71667],"type":"Point"}
+  "geometry": {"coordinates":[-65.76667,-28.71667],"type":"Point"}
 }

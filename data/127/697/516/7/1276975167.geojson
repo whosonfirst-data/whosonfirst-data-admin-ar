@@ -55,7 +55,7 @@
         "wk:page":"Pampa_Blanca%2C_Jujuy"
     },
     "wof:country":"AR",
-    "wof:geomhash":"44e06aa6d959d6dd5f36f7852000425a",
+    "wof:geomhash":"5c55f1e1f3f8b44fa5ce1bd8aed80677",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -65.07545999999999,
     -24.53082
 ],
-  "geometry": {"coordinates":[-65.07545999999999,-24.53082],"type":"Point"}
+  "geometry": {"coordinates":[-65.07546,-24.53082],"type":"Point"}
 }

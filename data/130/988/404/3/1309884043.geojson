@@ -46,7 +46,7 @@
         "wk:page":"Colonia_San_Jos%C3%A9%2C_La_Pampa"
     },
     "wof:country":"AR",
-    "wof:geomhash":"9897a49b03eab77beb4420dc2886b817",
+    "wof:geomhash":"53efad7fcbbad942af77b63c9c819ef7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -63.90266999999999,
     -36.11697
 ],
-  "geometry": {"coordinates":[-63.90266999999999,-36.11697],"type":"Point"}
+  "geometry": {"coordinates":[-63.90267,-36.11697],"type":"Point"}
 }

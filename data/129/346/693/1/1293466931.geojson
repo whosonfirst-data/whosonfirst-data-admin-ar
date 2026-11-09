@@ -73,7 +73,7 @@
         "wk:page":"Villa_Castelli%2C_Argentina"
     },
     "wof:country":"AR",
-    "wof:geomhash":"c52be969727acc9f4e30820a3b318db6",
+    "wof:geomhash":"9de49adf94fe15caf4bd530270f5fe1e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,5 +99,5 @@
     -68.21276999999999,
     -29.00295
 ],
-  "geometry": {"coordinates":[-68.21276999999999,-29.00295],"type":"Point"}
+  "geometry": {"coordinates":[-68.21277,-29.00295],"type":"Point"}
 }

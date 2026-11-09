@@ -55,7 +55,7 @@
         "wk:page":"Los_Sarmientos%2C_La_Rioja"
     },
     "wof:country":"AR",
-    "wof:geomhash":"3cbeee5a0d4bc2c6012518c92178a636",
+    "wof:geomhash":"b02094af6612c622a30031dcb21b516f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -67.48078000000001,
     -29.15076
 ],
-  "geometry": {"coordinates":[-67.48078000000001,-29.15076],"type":"Point"}
+  "geometry": {"coordinates":[-67.48078,-29.15076],"type":"Point"}
 }

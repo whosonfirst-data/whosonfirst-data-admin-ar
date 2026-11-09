@@ -61,7 +61,7 @@
         "wk:page":"Domselaar"
     },
     "wof:country":"AR",
-    "wof:geomhash":"d0c8a8f61bb1454a705ce9ca7aee87ea",
+    "wof:geomhash":"4295042dfa736389b5a43b0ebb776be8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,5 +87,5 @@
     -58.28554000000001,
     -35.07223
 ],
-  "geometry": {"coordinates":[-58.28554000000001,-35.07223],"type":"Point"}
+  "geometry": {"coordinates":[-58.28554,-35.07223],"type":"Point"}
 }

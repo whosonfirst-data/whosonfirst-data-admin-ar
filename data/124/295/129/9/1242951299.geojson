@@ -46,7 +46,7 @@
         "wk:page":"Trebolares"
     },
     "wof:country":"AR",
-    "wof:geomhash":"1c8b11b1c517cd6abfcafeedeb55cebe",
+    "wof:geomhash":"2ab28b6ef90871c280a21f10c032135b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -63.58669,
     -35.58454000000001
 ],
-  "geometry": {"coordinates":[-63.58669,-35.58454000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.58669,-35.58454],"type":"Point"}
 }

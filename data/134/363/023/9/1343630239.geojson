@@ -49,7 +49,7 @@
         "wk:page":"Lugones%2C_Santiago_del_Estero"
     },
     "wof:country":"AR",
-    "wof:geomhash":"faae46a2b9bee804887e332227e79816",
+    "wof:geomhash":"4381f706e7282f9abfd2bb18f830817d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -63.33982,
     -28.33589000000001
 ],
-  "geometry": {"coordinates":[-63.33982,-28.33589000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.33982,-28.33589],"type":"Point"}
 }

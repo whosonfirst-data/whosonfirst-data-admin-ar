@@ -43,7 +43,7 @@
         "wk:page":"San_Agust%C3%ADn%2C_Salta"
     },
     "wof:country":"AR",
-    "wof:geomhash":"6c462a4e4142ae6b7705e4b8c3b6c058",
+    "wof:geomhash":"aa9ddcf3059c2acb66a358a6f7791e1b",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -66,5 +66,5 @@
     -65.43583000000001,
     -24.9984
 ],
-  "geometry": {"coordinates":[-65.43583000000001,-24.9984],"type":"Point"}
+  "geometry": {"coordinates":[-65.43583,-24.9984],"type":"Point"}
 }

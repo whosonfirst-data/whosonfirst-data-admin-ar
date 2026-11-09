@@ -52,7 +52,7 @@
         "wk:page":"Ingeniero_Barbet"
     },
     "wof:country":"AR",
-    "wof:geomhash":"24256d5d6075f13f714c3f68fd082421",
+    "wof:geomhash":"e1d37132b6ca2dc78c9b5d0a85c35938",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -59.46458000000001,
     -26.98013
 ],
-  "geometry": {"coordinates":[-59.46458000000001,-26.98013],"type":"Point"}
+  "geometry": {"coordinates":[-59.46458,-26.98013],"type":"Point"}
 }

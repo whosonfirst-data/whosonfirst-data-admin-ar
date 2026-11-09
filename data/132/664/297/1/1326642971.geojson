@@ -55,7 +55,7 @@
         "wk:page":"Antinaco"
     },
     "wof:country":"AR",
-    "wof:geomhash":"f43ffeb6b30e5fd18b9e44b22abf5a9c",
+    "wof:geomhash":"30eee8ad287ca42459d254442267ed8b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -67.60755999999999,
     -27.2128
 ],
-  "geometry": {"coordinates":[-67.60755999999999,-27.2128],"type":"Point"}
+  "geometry": {"coordinates":[-67.60756,-27.2128],"type":"Point"}
 }

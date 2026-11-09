@@ -46,7 +46,7 @@
         "wk:page":"Biosphere_Reserve_of_%C3%91acu%C3%B1an"
     },
     "wof:country":"AR",
-    "wof:geomhash":"9138b46f7d601d4afccb083e1ac6065e",
+    "wof:geomhash":"dc8048acf0314cfaa2cb222350f2173c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -67.95371999999999,
     -34.04564
 ],
-  "geometry": {"coordinates":[-67.95371999999999,-34.04564],"type":"Point"}
+  "geometry": {"coordinates":[-67.95372,-34.04564],"type":"Point"}
 }

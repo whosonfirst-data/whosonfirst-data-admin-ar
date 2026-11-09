@@ -47,7 +47,7 @@
         "wk:page":"Colana"
     },
     "wof:country":"AR",
-    "wof:geomhash":"ea094c9bc0ba5ff06f492e5cd2f58aa5",
+    "wof:geomhash":"7c23ce02cb527b0e06ac6238b2ba19bf",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -70,5 +70,5 @@
     -66.16018000000001,
     -28.36221
 ],
-  "geometry": {"coordinates":[-66.16018000000001,-28.36221],"type":"Point"}
+  "geometry": {"coordinates":[-66.16018,-28.36221],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Chalic%C3%A1n"
     },
     "wof:country":"AR",
-    "wof:geomhash":"dc6b3c63928be44eccdc946cdd79b822",
+    "wof:geomhash":"c5bbe006b1204a890fd8d42eaf1d1a0c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -64.80530999999999,
     -24.06842
 ],
-  "geometry": {"coordinates":[-64.80530999999999,-24.06842],"type":"Point"}
+  "geometry": {"coordinates":[-64.80531,-24.06842],"type":"Point"}
 }

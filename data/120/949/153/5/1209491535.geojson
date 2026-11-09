@@ -40,7 +40,7 @@
         "wk:page":"El_Naranjo_%28Salta%29"
     },
     "wof:country":"AR",
-    "wof:geomhash":"0290f45ff9bc80985b005a41b3631b8b",
+    "wof:geomhash":"03405d33c972586b85a23a7bdae89d5c",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -63,5 +63,5 @@
     -65.02418,
     -25.72262000000001
 ],
-  "geometry": {"coordinates":[-65.02418,-25.72262000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.02418,-25.72262],"type":"Point"}
 }

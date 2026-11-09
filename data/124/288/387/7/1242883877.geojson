@@ -49,7 +49,7 @@
         "wk:page":"Coronel_Mart%C3%ADnez_de_Hoz"
     },
     "wof:country":"AR",
-    "wof:geomhash":"b68bb9771cc5a4c66c640e5d8704aacb",
+    "wof:geomhash":"433c350957e3aaf61270b96d72e91254",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -61.61326999999999,
     -35.33044
 ],
-  "geometry": {"coordinates":[-61.61326999999999,-35.33044],"type":"Point"}
+  "geometry": {"coordinates":[-61.61327,-35.33044],"type":"Point"}
 }

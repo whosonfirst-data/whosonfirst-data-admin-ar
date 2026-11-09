@@ -55,7 +55,7 @@
         "wk:page":"La_Clarita"
     },
     "wof:country":"AR",
-    "wof:geomhash":"686b62a77ad8c88e0f29e1b0f5f07e6f",
+    "wof:geomhash":"e015bb2951cbf738de3371c343cb6657",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -58.39386,
     -31.97619000000001
 ],
-  "geometry": {"coordinates":[-58.39386,-31.97619000000001],"type":"Point"}
+  "geometry": {"coordinates":[-58.39386,-31.97619],"type":"Point"}
 }

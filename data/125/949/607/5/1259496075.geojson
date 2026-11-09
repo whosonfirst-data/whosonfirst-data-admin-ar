@@ -52,7 +52,7 @@
         "wk:page":"La_Carrera%2C_Catamarca"
     },
     "wof:country":"AR",
-    "wof:geomhash":"87bf4fd96a2aa0aaaecd8153082c11cb",
+    "wof:geomhash":"49955055cb245046786c3dfbdeee429d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -65.70707,
     -28.35419000000001
 ],
-  "geometry": {"coordinates":[-65.70707,-28.35419000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.70707,-28.35419],"type":"Point"}
 }

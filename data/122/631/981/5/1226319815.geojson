@@ -49,7 +49,7 @@
         "wk:page":"Banda_Florida"
     },
     "wof:country":"AR",
-    "wof:geomhash":"234d55cd06ac3b6365d04580fb5b0202",
+    "wof:geomhash":"6ca51eebc7e48e4dc12f4eeffb861b27",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -68.24611999999999,
     -29.30278
 ],
-  "geometry": {"coordinates":[-68.24611999999999,-29.30278],"type":"Point"}
+  "geometry": {"coordinates":[-68.24612,-29.30278],"type":"Point"}
 }

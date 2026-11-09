@@ -56,7 +56,7 @@
         "wk:page":"Fort%C3%ADn_El_Patria"
     },
     "wof:country":"AR",
-    "wof:geomhash":"f00e546ef51c8b0bfb7224b3bb390fb1",
+    "wof:geomhash":"b487ea98037ecadc63f77a64380a4279",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,5 +82,5 @@
     -65.52226,
     -34.77030999999999
 ],
-  "geometry": {"coordinates":[-65.52226,-34.77030999999999],"type":"Point"}
+  "geometry": {"coordinates":[-65.52226,-34.77031],"type":"Point"}
 }

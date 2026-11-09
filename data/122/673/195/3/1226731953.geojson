@@ -60,7 +60,7 @@
         "wk:page":"Guardia_Mitre"
     },
     "wof:country":"AR",
-    "wof:geomhash":"24ca35265cb20123d37d68b5f9cbad89",
+    "wof:geomhash":"9c63bb1b5b3e5e7533a3cedfb9939f8f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,5 +86,5 @@
     -63.68333000000001,
     -40.43333
 ],
-  "geometry": {"coordinates":[-63.68333000000001,-40.43333],"type":"Point"}
+  "geometry": {"coordinates":[-63.68333,-40.43333],"type":"Point"}
 }

@@ -50,7 +50,7 @@
         "wk:page":"Ba%C3%B1ado_de_Ovanta"
     },
     "wof:country":"AR",
-    "wof:geomhash":"73d128bc1f02544a8b470d47cc798596",
+    "wof:geomhash":"fb118ea9ba04ab0e1122c6833e0b7b33",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -65.31884000000001,
     -28.10564
 ],
-  "geometry": {"coordinates":[-65.31884000000001,-28.10564],"type":"Point"}
+  "geometry": {"coordinates":[-65.31884,-28.10564],"type":"Point"}
 }

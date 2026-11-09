@@ -55,7 +55,7 @@
         "wk:page":"Carrenleuf%C3%BA"
     },
     "wof:country":"AR",
-    "wof:geomhash":"b0f717548e801d9b037671dbb8534372",
+    "wof:geomhash":"d00d0ab68998734b745be162e8b27c38",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -71.70326999999997,
     -43.58581
 ],
-  "geometry": {"coordinates":[-71.70326999999997,-43.58581],"type":"Point"}
+  "geometry": {"coordinates":[-71.70327,-43.58581],"type":"Point"}
 }

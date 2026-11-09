@@ -49,7 +49,7 @@
         "wk:page":"R%C3%ADo_Muerto"
     },
     "wof:country":"AR",
-    "wof:geomhash":"1608bd98ef372df918bbeafa48cc0d65",
+    "wof:geomhash":"90d6f655af2fcc971709170c045abb2e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -61.68333000000001,
     -26.3
 ],
-  "geometry": {"coordinates":[-61.68333000000001,-26.3],"type":"Point"}
+  "geometry": {"coordinates":[-61.68333,-26.3],"type":"Point"}
 }

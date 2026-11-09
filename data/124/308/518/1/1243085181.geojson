@@ -82,7 +82,7 @@
         "wk:page":"Ciudad_Evita"
     },
     "wof:country":"AR",
-    "wof:geomhash":"a04297c61a97b06e4d047df35e3b0124",
+    "wof:geomhash":"2f8f0e21984cc2b880732662ddc59eb8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,5 +108,5 @@
     -58.52979000000001,
     -34.72296
 ],
-  "geometry": {"coordinates":[-58.52979000000001,-34.72296],"type":"Point"}
+  "geometry": {"coordinates":[-58.52979,-34.72296],"type":"Point"}
 }

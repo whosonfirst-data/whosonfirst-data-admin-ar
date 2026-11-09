@@ -67,7 +67,7 @@
         "wk:page":"Nueva_Esperanza%2C_Santiago_del_Estero"
     },
     "wof:country":"AR",
-    "wof:geomhash":"d92313ee8c261a0dee9c866b4114ec1d",
+    "wof:geomhash":"3ec29d5030c26ae294c9298b31c433c6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,5 +93,5 @@
     -64.23791999999999,
     -26.19907000000001
 ],
-  "geometry": {"coordinates":[-64.23791999999999,-26.19907000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.23792,-26.19907],"type":"Point"}
 }

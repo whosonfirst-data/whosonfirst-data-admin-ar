@@ -48,7 +48,7 @@
         "wk:page":"Selvas_del_R%C3%ADo_de_Oro"
     },
     "wof:country":"AR",
-    "wof:geomhash":"7c5d0598903a2c023a4e001c229b6664",
+    "wof:geomhash":"441b042a9032a9bec0ecfbfab1f1e5ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -74,5 +74,5 @@
     -58.96666999999999,
     -26.8
 ],
-  "geometry": {"coordinates":[-58.96666999999999,-26.8],"type":"Point"}
+  "geometry": {"coordinates":[-58.96667,-26.8],"type":"Point"}
 }

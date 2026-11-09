@@ -55,7 +55,7 @@
         "wk:page":"Santa_Luc%C3%ADa%2C_Tucum%C3%A1n"
     },
     "wof:country":"AR",
-    "wof:geomhash":"1eec1ed2067cd0bd70b36838d9038164",
+    "wof:geomhash":"7916004e817b7a457458c098baf53e57",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -65.53256999999999,
     -27.09245
 ],
-  "geometry": {"coordinates":[-65.53256999999999,-27.09245],"type":"Point"}
+  "geometry": {"coordinates":[-65.53257,-27.09245],"type":"Point"}
 }

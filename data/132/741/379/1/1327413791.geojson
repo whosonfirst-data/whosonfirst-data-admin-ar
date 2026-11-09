@@ -49,7 +49,7 @@
         "wk:page":"Pagancillo"
     },
     "wof:country":"AR",
-    "wof:geomhash":"070de1dc288d33318f99e130fe0101b0",
+    "wof:geomhash":"6542aa2cb2c51cafad954783f0a3a8b8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -68.09685999999999,
     -29.54114
 ],
-  "geometry": {"coordinates":[-68.09685999999999,-29.54114],"type":"Point"}
+  "geometry": {"coordinates":[-68.09686,-29.54114],"type":"Point"}
 }

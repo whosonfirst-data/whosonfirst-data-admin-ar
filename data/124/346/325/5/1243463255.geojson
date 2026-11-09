@@ -49,7 +49,7 @@
         "wk:page":"Tucumanao"
     },
     "wof:country":"AR",
-    "wof:geomhash":"442d910e4019e4cff2d39a704344fee3",
+    "wof:geomhash":"23b1502a3b62228669c1abc79a83ab8b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -66.56761999999999,
     -28.08242000000001
 ],
-  "geometry": {"coordinates":[-66.56761999999999,-28.08242000000001],"type":"Point"}
+  "geometry": {"coordinates":[-66.56762,-28.08242],"type":"Point"}
 }

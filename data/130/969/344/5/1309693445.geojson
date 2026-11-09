@@ -55,7 +55,7 @@
         "wk:page":"Metileo"
     },
     "wof:country":"AR",
-    "wof:geomhash":"738bc09e936e0e35d80106a743c05728",
+    "wof:geomhash":"537b70730581f4dd3553364e90edf203",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -63.94300000000001,
     -35.7739
 ],
-  "geometry": {"coordinates":[-63.94300000000001,-35.7739],"type":"Point"}
+  "geometry": {"coordinates":[-63.943,-35.7739],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Henderson%2C_Buenos_Aires"
     },
     "wof:country":"AR",
-    "wof:geomhash":"05767850e002f9c0c37cd6ffcde48b9f",
+    "wof:geomhash":"c76395b42bbf8bb2a02c292ecea64029",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,5 +84,5 @@
     -61.71666999999999,
     -36.3
 ],
-  "geometry": {"coordinates":[-61.71666999999999,-36.3],"type":"Point"}
+  "geometry": {"coordinates":[-61.71667,-36.3],"type":"Point"}
 }

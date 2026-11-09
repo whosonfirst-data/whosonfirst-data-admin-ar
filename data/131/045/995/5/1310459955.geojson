@@ -64,7 +64,7 @@
         "wk:page":"Villa_Nougu%C3%A9s"
     },
     "wof:country":"AR",
-    "wof:geomhash":"751a468ed17789119af3a88edefb141d",
+    "wof:geomhash":"5a040f4c6785806f91ca37182ea93ef3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,5 +90,5 @@
     -65.38578000000001,
     -26.84977
 ],
-  "geometry": {"coordinates":[-65.38578000000001,-26.84977],"type":"Point"}
+  "geometry": {"coordinates":[-65.38578,-26.84977],"type":"Point"}
 }

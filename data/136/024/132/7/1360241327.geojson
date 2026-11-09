@@ -70,7 +70,7 @@
         "wk:page":"%C3%81rraga"
     },
     "wof:country":"AR",
-    "wof:geomhash":"074257b678adc5edb53caa4513bc6a0a",
+    "wof:geomhash":"2bf300bad0bbbbe716fa3d5f4c30a573",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,5 +96,5 @@
     -64.22254000000001,
     -28.04978
 ],
-  "geometry": {"coordinates":[-64.22254000000001,-28.04978],"type":"Point"}
+  "geometry": {"coordinates":[-64.22254,-28.04978],"type":"Point"}
 }

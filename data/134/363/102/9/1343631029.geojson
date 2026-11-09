@@ -55,7 +55,7 @@
         "wk:page":"Colonia_Juli%C3%A1_y_Echarren"
     },
     "wof:country":"AR",
-    "wof:geomhash":"cdedf73dcab51da5bc58e9fb0c15c69d",
+    "wof:geomhash":"22821308b30f38e2d64db8b1eeae7ef8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -64.02729000000001,
     -39.03504
 ],
-  "geometry": {"coordinates":[-64.02729000000001,-39.03504],"type":"Point"}
+  "geometry": {"coordinates":[-64.02729,-39.03504],"type":"Point"}
 }

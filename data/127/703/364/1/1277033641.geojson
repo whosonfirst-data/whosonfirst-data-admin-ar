@@ -79,7 +79,7 @@
         "wk:page":"Mois%C3%A9s_Ville"
     },
     "wof:country":"AR",
-    "wof:geomhash":"c27285f54d4870303d5083d8a591adad",
+    "wof:geomhash":"e2985c0d1099d3e7261c7de5993d34a6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,5 +105,5 @@
     -61.47029000000001,
     -30.71495
 ],
-  "geometry": {"coordinates":[-61.47029000000001,-30.71495],"type":"Point"}
+  "geometry": {"coordinates":[-61.47029,-30.71495],"type":"Point"}
 }

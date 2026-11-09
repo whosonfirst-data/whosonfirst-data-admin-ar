@@ -67,7 +67,7 @@
         "wk:page":"Basavilbaso"
     },
     "wof:country":"AR",
-    "wof:geomhash":"6d6ea6a7df90b347e53bab79f272d3d2",
+    "wof:geomhash":"785d509a2e4575d33f95062ce694d8a3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,5 +93,5 @@
     -58.87858000000001,
     -32.37213
 ],
-  "geometry": {"coordinates":[-58.87858000000001,-32.37213],"type":"Point"}
+  "geometry": {"coordinates":[-58.87858,-32.37213],"type":"Point"}
 }

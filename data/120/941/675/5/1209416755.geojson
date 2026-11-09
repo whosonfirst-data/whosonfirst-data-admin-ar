@@ -52,7 +52,7 @@
         "wk:page":"Enrique_Uri%C3%A9n"
     },
     "wof:country":"AR",
-    "wof:geomhash":"6a3c67c437bdc7fe9cbb9f637e969f9e",
+    "wof:geomhash":"ad92d9b5fd90aad8d064be30f6109688",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -75,5 +75,5 @@
     -60.52708000000001,
     -27.55493
 ],
-  "geometry": {"coordinates":[-60.52708000000001,-27.55493],"type":"Point"}
+  "geometry": {"coordinates":[-60.52708,-27.55493],"type":"Point"}
 }

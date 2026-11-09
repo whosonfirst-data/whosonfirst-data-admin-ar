@@ -52,7 +52,7 @@
         "wk:page":"Hip%C3%B3lito_Yrigoyen%2C_Misiones"
     },
     "wof:country":"AR",
-    "wof:geomhash":"13af4c0e838e1e9ee4b6d9484c12ac30",
+    "wof:geomhash":"8b6d4aad80149b5e1f9cd5437d689255",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -55.28333000000001,
     -27.1
 ],
-  "geometry": {"coordinates":[-55.28333000000001,-27.1],"type":"Point"}
+  "geometry": {"coordinates":[-55.28333,-27.1],"type":"Point"}
 }

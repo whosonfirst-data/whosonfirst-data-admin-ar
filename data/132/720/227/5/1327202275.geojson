@@ -52,7 +52,7 @@
         "wk:page":"Gobernador_Garmendia"
     },
     "wof:country":"AR",
-    "wof:geomhash":"20039e48b74cee24217328aef6ce8418",
+    "wof:geomhash":"00ecc800d211cb1d8c6baa7d827b5c67",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -64.55611999999999,
     -26.5695
 ],
-  "geometry": {"coordinates":[-64.55611999999999,-26.5695],"type":"Point"}
+  "geometry": {"coordinates":[-64.55612,-26.5695],"type":"Point"}
 }

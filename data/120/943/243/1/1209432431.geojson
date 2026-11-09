@@ -40,7 +40,7 @@
         "wk:page":"Villa_Galicia"
     },
     "wof:country":"AR",
-    "wof:geomhash":"7a975e820c43a9ada0f714285756fa45",
+    "wof:geomhash":"42befe4f33fc38ad370cc5553db18749",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -63,5 +63,5 @@
     -58.37983000000001,
     -34.76225
 ],
-  "geometry": {"coordinates":[-58.37983000000001,-34.76225],"type":"Point"}
+  "geometry": {"coordinates":[-58.37983,-34.76225],"type":"Point"}
 }

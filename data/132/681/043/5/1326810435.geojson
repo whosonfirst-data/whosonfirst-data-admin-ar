@@ -55,7 +55,7 @@
         "wk:page":"Guandacol"
     },
     "wof:country":"AR",
-    "wof:geomhash":"46bdddc923cc8514e8372200a13459d1",
+    "wof:geomhash":"f285678c78519cd83baa8a2b1754fffd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -68.55785999999999,
     -29.52469
 ],
-  "geometry": {"coordinates":[-68.55785999999999,-29.52469],"type":"Point"}
+  "geometry": {"coordinates":[-68.55786,-29.52469],"type":"Point"}
 }

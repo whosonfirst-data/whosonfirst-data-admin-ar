@@ -49,7 +49,7 @@
         "wk:page":"Arizona%2C_San_Luis"
     },
     "wof:country":"AR",
-    "wof:geomhash":"2d01fd45f26170486c6ca0172e38abfe",
+    "wof:geomhash":"f3dc5c60d0cd25bf4f50cf7322f15526",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -65.31971999999999,
     -35.72259000000001
 ],
-  "geometry": {"coordinates":[-65.31971999999999,-35.72259000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.31972,-35.72259],"type":"Point"}
 }

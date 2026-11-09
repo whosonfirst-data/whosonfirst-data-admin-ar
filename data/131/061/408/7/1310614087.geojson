@@ -52,7 +52,7 @@
         "wk:page":"Guayamba"
     },
     "wof:country":"AR",
-    "wof:geomhash":"c7bc3dd6b9351437ee4ba9f7fc3595c0",
+    "wof:geomhash":"1453e3139027e2941fae7883d86301eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -65.39905999999999,
     -28.34444
 ],
-  "geometry": {"coordinates":[-65.39905999999999,-28.34444],"type":"Point"}
+  "geometry": {"coordinates":[-65.39906,-28.34444],"type":"Point"}
 }

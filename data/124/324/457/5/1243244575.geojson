@@ -46,7 +46,7 @@
         "wk:page":"Ingeniero_Foster"
     },
     "wof:country":"AR",
-    "wof:geomhash":"c118ac4075d2825644343498cce267cb",
+    "wof:geomhash":"1049cd72733073151f7a12b0551ae329",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -65.10143000000001,
     -35.70348
 ],
-  "geometry": {"coordinates":[-65.10143000000001,-35.70348],"type":"Point"}
+  "geometry": {"coordinates":[-65.10143,-35.70348],"type":"Point"}
 }

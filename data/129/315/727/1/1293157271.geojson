@@ -52,7 +52,7 @@
         "wk:page":"Vilelas%2C_Santiago_del_Estero"
     },
     "wof:country":"AR",
-    "wof:geomhash":"2a433c3642967cbcb452734ce9666827",
+    "wof:geomhash":"da82e09c347ef0d1a5f57dadd7bdc68d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -62.63333000000001,
     -27.95
 ],
-  "geometry": {"coordinates":[-62.63333000000001,-27.95],"type":"Point"}
+  "geometry": {"coordinates":[-62.63333,-27.95],"type":"Point"}
 }

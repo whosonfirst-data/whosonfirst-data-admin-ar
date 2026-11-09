@@ -55,7 +55,7 @@
         "wk:page":"Rucanelo"
     },
     "wof:country":"AR",
-    "wof:geomhash":"1d0394216515720fa436d9f60881def9",
+    "wof:geomhash":"7453ba2751e9d970041fe2c2068e1f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -64.83471,
     -36.04264000000001
 ],
-  "geometry": {"coordinates":[-64.83471,-36.04264000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.83471,-36.04264],"type":"Point"}
 }

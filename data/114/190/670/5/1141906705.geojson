@@ -124,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"AR",
     "wof:created":1499130628,
-    "wof:geomhash":"7c167a1600c978044f66234889e75ce2",
+    "wof:geomhash":"a13811a0a9d9da84fba67baeaeea2af9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,5 +150,5 @@
     -70.26657434251598,
     -45.68337563200231
 ],
-  "geometry": {"coordinates":[-70.26657434251598,-45.68337563200231],"type":"Point"}
+  "geometry": {"coordinates":[-70.266574,-45.683376],"type":"Point"}
 }

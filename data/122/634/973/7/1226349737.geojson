@@ -58,7 +58,7 @@
         "wk:page":"General_Capdevila"
     },
     "wof:country":"AR",
-    "wof:geomhash":"4525101ef4a0910c3078aa7520a04372",
+    "wof:geomhash":"8f34192c735376e8d9a64dc7d2c106fe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,5 +84,5 @@
     -61.47734000000001,
     -27.42228
 ],
-  "geometry": {"coordinates":[-61.47734000000001,-27.42228],"type":"Point"}
+  "geometry": {"coordinates":[-61.47734,-27.42228],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Met%C3%A1n_Viejo"
     },
     "wof:country":"AR",
-    "wof:geomhash":"1698bb693932e9a1553bbbcb9600fd6e",
+    "wof:geomhash":"51de2afbc4956530f31176a5d2d5bd25",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -64.97868000000001,
     -25.53904
 ],
-  "geometry": {"coordinates":[-64.97868000000001,-25.53904],"type":"Point"}
+  "geometry": {"coordinates":[-64.97868,-25.53904],"type":"Point"}
 }

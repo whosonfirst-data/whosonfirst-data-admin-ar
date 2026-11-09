@@ -55,7 +55,7 @@
         "wk:page":"Catua"
     },
     "wof:country":"AR",
-    "wof:geomhash":"294da8fad2cfd9d3400d542e030a74a4",
+    "wof:geomhash":"34cc55bf30df5d6fd9dda752ab3ff798",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -67.00558000000001,
     -23.87105
 ],
-  "geometry": {"coordinates":[-67.00558000000001,-23.87105],"type":"Point"}
+  "geometry": {"coordinates":[-67.00558,-23.87105],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Las_Moscas%2C_Entre_R%C3%ADos"
     },
     "wof:country":"AR",
-    "wof:geomhash":"686d094b73936ffc26fd655810294d2a",
+    "wof:geomhash":"63c7b89b0ac2675a84f053cf9155ca5d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -58.95506999999999,
     -32.09169
 ],
-  "geometry": {"coordinates":[-58.95506999999999,-32.09169],"type":"Point"}
+  "geometry": {"coordinates":[-58.95507,-32.09169],"type":"Point"}
 }

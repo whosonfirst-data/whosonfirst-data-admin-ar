@@ -61,7 +61,7 @@
         "wk:page":"M%C3%A9danos%2C_Buenos_Aires"
     },
     "wof:country":"AR",
-    "wof:geomhash":"65599ef852ca75ced950a42c6216b296",
+    "wof:geomhash":"e985ce7a7a8877c2d3b02eaf736d1ad2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,5 +87,5 @@
     -62.68333000000001,
     -38.81667
 ],
-  "geometry": {"coordinates":[-62.68333000000001,-38.81667],"type":"Point"}
+  "geometry": {"coordinates":[-62.68333,-38.81667],"type":"Point"}
 }

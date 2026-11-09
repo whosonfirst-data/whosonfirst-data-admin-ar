@@ -49,7 +49,7 @@
         "wk:page":"El_Desmonte"
     },
     "wof:country":"AR",
-    "wof:geomhash":"42b79384852c09de3784eec13fa39f38",
+    "wof:geomhash":"57fc9815b13a9852a4cbaebcb9c73714",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -66.09846999999999,
     -26.86676
 ],
-  "geometry": {"coordinates":[-66.09846999999999,-26.86676],"type":"Point"}
+  "geometry": {"coordinates":[-66.09847,-26.86676],"type":"Point"}
 }

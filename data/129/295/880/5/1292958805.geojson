@@ -52,7 +52,7 @@
         "wk:page":"R%C3%ADo_Seco%2C_Tucum%C3%A1n"
     },
     "wof:country":"AR",
-    "wof:geomhash":"5cd0a6e08af21d5f4d70cfa3aee6196d",
+    "wof:geomhash":"60e9d9135f330acc86cc89eb204d8b72",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -65.55736999999999,
     -27.26823
 ],
-  "geometry": {"coordinates":[-65.55736999999999,-27.26823],"type":"Point"}
+  "geometry": {"coordinates":[-65.55737,-27.26823],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Bajada_del_Agrio"
     },
     "wof:country":"AR",
-    "wof:geomhash":"35f8c6869b87183c2056652c9ac1ba80",
+    "wof:geomhash":"827c4aec9c448f6e27639fea3250baa2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -70.03166999999999,
     -38.40481
 ],
-  "geometry": {"coordinates":[-70.03166999999999,-38.40481],"type":"Point"}
+  "geometry": {"coordinates":[-70.03167,-38.40481],"type":"Point"}
 }

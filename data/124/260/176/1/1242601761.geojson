@@ -61,7 +61,7 @@
         "wk:page":"Lago_Blanco"
     },
     "wof:country":"AR",
-    "wof:geomhash":"6ad947366847f7c5c6556903bd04f297",
+    "wof:geomhash":"40ca0f98e177cfafc4ef475fe0f67b43",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,5 +87,5 @@
     -71.26848000000003,
     -45.93492
 ],
-  "geometry": {"coordinates":[-71.26848000000003,-45.93492],"type":"Point"}
+  "geometry": {"coordinates":[-71.26848,-45.93492],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Villa_Reynolds"
     },
     "wof:country":"AR",
-    "wof:geomhash":"90f8359025f9b41acce6df68eb0a1d49",
+    "wof:geomhash":"cf3d8e75e05552d8b68bed83901b6d58",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -84,5 +84,5 @@
     -65.38006999999999,
     -33.72091
 ],
-  "geometry": {"coordinates":[-65.38006999999999,-33.72091],"type":"Point"}
+  "geometry": {"coordinates":[-65.38007,-33.72091],"type":"Point"}
 }

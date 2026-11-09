@@ -48,7 +48,7 @@
         "wk:page":"Villa_Santa_Rita_de_Catuna"
     },
     "wof:country":"AR",
-    "wof:geomhash":"cba048fc5d194aa78631dfcb52e011ef",
+    "wof:geomhash":"045a4e6aaccfefdad24b8e876dc375c1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -74,5 +74,5 @@
     -66.21970999999999,
     -30.95449
 ],
-  "geometry": {"coordinates":[-66.21970999999999,-30.95449],"type":"Point"}
+  "geometry": {"coordinates":[-66.21971,-30.95449],"type":"Point"}
 }

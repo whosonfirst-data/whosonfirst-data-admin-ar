@@ -55,7 +55,7 @@
         "wk:page":"La_Majada%2C_Catamarca"
     },
     "wof:country":"AR",
-    "wof:geomhash":"a1ee5027e7a80e1d712545e939de2a7b",
+    "wof:geomhash":"c40d3dbe74d986f59f0d9d96bb0a8547",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -65.54359000000001,
     -29.03663
 ],
-  "geometry": {"coordinates":[-65.54359000000001,-29.03663],"type":"Point"}
+  "geometry": {"coordinates":[-65.54359,-29.03663],"type":"Point"}
 }

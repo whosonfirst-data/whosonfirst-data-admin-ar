@@ -43,7 +43,7 @@
         "wk:page":"El_Barco_%28Tucum%C3%A1n%29"
     },
     "wof:country":"AR",
-    "wof:geomhash":"8d4504e0ee89c26ff6337ec967ade721",
+    "wof:geomhash":"d2144a1a8185de947b29a713264d10a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,5 +69,5 @@
     -64.88434000000001,
     -26.64089
 ],
-  "geometry": {"coordinates":[-64.88434000000001,-26.64089],"type":"Point"}
+  "geometry": {"coordinates":[-64.88434,-26.64089],"type":"Point"}
 }

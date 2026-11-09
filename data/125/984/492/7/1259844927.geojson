@@ -55,7 +55,7 @@
         "wk:page":"Lafinur"
     },
     "wof:country":"AR",
-    "wof:geomhash":"1bc0dc8362129d3d801ec5dc61e9befe",
+    "wof:geomhash":"74c4b51dbae35a0e4c4fba78853a149b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -65.34579000000001,
     -32.05806
 ],
-  "geometry": {"coordinates":[-65.34579000000001,-32.05806],"type":"Point"}
+  "geometry": {"coordinates":[-65.34579,-32.05806],"type":"Point"}
 }

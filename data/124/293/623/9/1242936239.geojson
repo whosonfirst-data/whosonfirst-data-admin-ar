@@ -47,7 +47,7 @@
         "gn:id":3866940
     },
     "wof:country":"AR",
-    "wof:geomhash":"c3c5b260be217f69b440f91c2fde2ca0",
+    "wof:geomhash":"93c81ab4306b5fbe19ffa6a1f6d5300c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -73,5 +73,5 @@
     -68.63528000000001,
     -30.7325
 ],
-  "geometry": {"coordinates":[-68.63528000000001,-30.7325],"type":"Point"}
+  "geometry": {"coordinates":[-68.63528,-30.7325],"type":"Point"}
 }

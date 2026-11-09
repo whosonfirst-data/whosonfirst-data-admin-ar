@@ -43,7 +43,7 @@
         "wk:page":"El_Pantanillo_%28Catamarca%29"
     },
     "wof:country":"AR",
-    "wof:geomhash":"91ddc8c856d00a3b5146c05beb02e226",
+    "wof:geomhash":"a8dd9ec907a9f903bfdc39c8b82bd6bd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,5 +69,5 @@
     -65.90798000000001,
     -32.33665999999999
 ],
-  "geometry": {"coordinates":[-65.90798000000001,-32.33665999999999],"type":"Point"}
+  "geometry": {"coordinates":[-65.90798,-32.33666],"type":"Point"}
 }

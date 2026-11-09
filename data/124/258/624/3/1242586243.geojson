@@ -49,7 +49,7 @@
         "wk:page":"Las_Mojarras"
     },
     "wof:country":"AR",
-    "wof:geomhash":"707df230b1d47fb4c272c9fb24ba7f16",
+    "wof:geomhash":"e2c2e4231e9aca95a0deea1789d2273f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -66.06168000000001,
     -26.65326
 ],
-  "geometry": {"coordinates":[-66.06168000000001,-26.65326],"type":"Point"}
+  "geometry": {"coordinates":[-66.06168,-26.65326],"type":"Point"}
 }

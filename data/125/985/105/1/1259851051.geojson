@@ -52,7 +52,7 @@
         "wk:page":"La_Silleta"
     },
     "wof:country":"AR",
-    "wof:geomhash":"c4b4d1f30ee73dcadb40518bdd7633e2",
+    "wof:geomhash":"e7cbf155b2f12ec666d61a34995928eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -65.56685999999999,
     -24.8719
 ],
-  "geometry": {"coordinates":[-65.56685999999999,-24.8719],"type":"Point"}
+  "geometry": {"coordinates":[-65.56686,-24.8719],"type":"Point"}
 }

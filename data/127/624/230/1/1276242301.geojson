@@ -49,7 +49,7 @@
         "wk:page":"Timote"
     },
     "wof:country":"AR",
-    "wof:geomhash":"0fcf0675f9ea50bf81f8f928d59fec53",
+    "wof:geomhash":"4f3c3f30893ee1a254c34e2db09dcbde",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -62.22428000000001,
     -35.34711
 ],
-  "geometry": {"coordinates":[-62.22428000000001,-35.34711],"type":"Point"}
+  "geometry": {"coordinates":[-62.22428,-35.34711],"type":"Point"}
 }

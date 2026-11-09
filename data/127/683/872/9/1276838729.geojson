@@ -52,7 +52,7 @@
         "wk:page":"Palo_Negro%2C_Santiago_del_Estero"
     },
     "wof:country":"AR",
-    "wof:geomhash":"6c003b312bbc68871d0d3b3b20c1c28a",
+    "wof:geomhash":"e48a4ee5478482e661cd6c622eb0fec9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -62.13563000000001,
     -29.675
 ],
-  "geometry": {"coordinates":[-62.13563000000001,-29.675],"type":"Point"}
+  "geometry": {"coordinates":[-62.13563,-29.675],"type":"Point"}
 }

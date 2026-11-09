@@ -52,7 +52,7 @@
         "wk:page":"Capit%C3%A1n_Juan_Pag%C3%A9"
     },
     "wof:country":"AR",
-    "wof:geomhash":"d63931c22d6549513f6b8520618f9954",
+    "wof:geomhash":"525d9223bc031912b2a3037b3b384d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -62.38333000000001,
     -23.68333
 ],
-  "geometry": {"coordinates":[-62.38333000000001,-23.68333],"type":"Point"}
+  "geometry": {"coordinates":[-62.38333,-23.68333],"type":"Point"}
 }

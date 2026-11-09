@@ -49,7 +49,7 @@
         "wk:page":"Copacabana%2C_Catamarca"
     },
     "wof:country":"AR",
-    "wof:geomhash":"42823dca8ec949f1b96e0bf2b1078949",
+    "wof:geomhash":"2a0ec81005b8e3b020c865dc570fdbd2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -67.48333000000001,
     -28.2
 ],
-  "geometry": {"coordinates":[-67.48333000000001,-28.2],"type":"Point"}
+  "geometry": {"coordinates":[-67.48333,-28.2],"type":"Point"}
 }

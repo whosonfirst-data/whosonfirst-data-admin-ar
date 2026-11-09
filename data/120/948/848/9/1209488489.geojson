@@ -52,7 +52,7 @@
         "wk:page":"Tricao_Malal"
     },
     "wof:country":"AR",
-    "wof:geomhash":"93a7954ed2c1ebb78b55a76ef768aca9",
+    "wof:geomhash":"82cd47c4a7df6cb637750a7f2ceacd42",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -75,5 +75,5 @@
     -70.32488000000001,
     -37.04543
 ],
-  "geometry": {"coordinates":[-70.32488000000001,-37.04543],"type":"Point"}
+  "geometry": {"coordinates":[-70.32488,-37.04543],"type":"Point"}
 }

@@ -39,7 +39,7 @@
         "wk:page":"Mina_La_Casualidad"
     },
     "wof:country":"AR",
-    "wof:geomhash":"f52d938e224225cbc4c0559cb1729f81",
+    "wof:geomhash":"6ea9f807904d63ddd213b5bacc784cdf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -65,5 +65,5 @@
     -68.23333000000001,
     -25.06667
 ],
-  "geometry": {"coordinates":[-68.23333000000001,-25.06667],"type":"Point"}
+  "geometry": {"coordinates":[-68.23333,-25.06667],"type":"Point"}
 }

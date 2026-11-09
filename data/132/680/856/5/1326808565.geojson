@@ -64,7 +64,7 @@
         "wk:page":"Puel%C3%A9n"
     },
     "wof:country":"AR",
-    "wof:geomhash":"17e08d636307f729381c7a25316b91fa",
+    "wof:geomhash":"5361217ef7d8f8a9963f2eb2483e0357",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,5 +90,5 @@
     -67.61936999999999,
     -37.3437
 ],
-  "geometry": {"coordinates":[-67.61936999999999,-37.3437],"type":"Point"}
+  "geometry": {"coordinates":[-67.61937,-37.3437],"type":"Point"}
 }

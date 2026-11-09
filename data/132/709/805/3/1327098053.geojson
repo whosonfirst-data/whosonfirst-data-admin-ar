@@ -55,7 +55,7 @@
         "wk:page":"La_Merced%2C_Salta"
     },
     "wof:country":"AR",
-    "wof:geomhash":"d6ec4d1bea165243d55416c63f93c85f",
+    "wof:geomhash":"50c867a837ebe8d60b297394651407e4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -65.48865,
     -24.96877000000001
 ],
-  "geometry": {"coordinates":[-65.48865000000001,-24.96877000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.48865,-24.96877],"type":"Point"}
 }

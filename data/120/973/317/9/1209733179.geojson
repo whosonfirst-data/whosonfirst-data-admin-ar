@@ -104,7 +104,7 @@
         "wk:page":"Moreno,_Buenos_Aires"
     },
     "wof:country":"AR",
-    "wof:geomhash":"16a88817806cd03235f80bf50c0ff440",
+    "wof:geomhash":"5e3d2d11e33a7adddf58a8d35c15b5fa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -130,5 +130,5 @@
     -58.92916999999999,
     -34.46333
 ],
-  "geometry": {"coordinates":[-58.92916999999999,-34.46333],"type":"Point"}
+  "geometry": {"coordinates":[-58.92917,-34.46333],"type":"Point"}
 }

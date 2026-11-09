@@ -52,7 +52,7 @@
         "wk:page":"Urundel"
     },
     "wof:country":"AR",
-    "wof:geomhash":"36a1cd9f9915bcf11b1e877ba5a40813",
+    "wof:geomhash":"7621dae4eb0784f4c4080cfe4f5bd397",
     "wof:hierarchy":[
         {
             "country_id":85632505,
@@ -75,5 +75,5 @@
     -64.39775999999999,
     -23.55619
 ],
-  "geometry": {"coordinates":[-64.39775999999999,-23.55619],"type":"Point"}
+  "geometry": {"coordinates":[-64.39776,-23.55619],"type":"Point"}
 }

@@ -49,7 +49,7 @@
         "wk:page":"Los_Miches"
     },
     "wof:country":"AR",
-    "wof:geomhash":"626a65cdbd734afc98a9e79b98e7b019",
+    "wof:geomhash":"21ca3e42b9cf1abc374e1fb128ea63ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -70.81929000000002,
     -37.20476
 ],
-  "geometry": {"coordinates":[-70.81929000000002,-37.20476],"type":"Point"}
+  "geometry": {"coordinates":[-70.81929,-37.20476],"type":"Point"}
 }

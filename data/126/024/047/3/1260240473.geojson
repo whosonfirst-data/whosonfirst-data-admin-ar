@@ -56,7 +56,7 @@
         "wk:page":"Timb%C3%BAes%2C_Santa_Fe"
     },
     "wof:country":"AR",
-    "wof:geomhash":"df3cd28bfe4c8de385ae50ca74f6aa22",
+    "wof:geomhash":"7d4a5754a5161d82eed3cea9ffa648d7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,5 +82,5 @@
     -60.79298000000001,
     -32.6672
 ],
-  "geometry": {"coordinates":[-60.79298000000001,-32.6672],"type":"Point"}
+  "geometry": {"coordinates":[-60.79298,-32.6672],"type":"Point"}
 }

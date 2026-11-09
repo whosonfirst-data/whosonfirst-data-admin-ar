@@ -46,7 +46,7 @@
         "wk:page":"Josefina%2C_Santa_Fe"
     },
     "wof:country":"AR",
-    "wof:geomhash":"245f30bf2f1aa38e80c919e08eb461af",
+    "wof:geomhash":"45b664408eb01cb53ba7f2c5f5caabcc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -61.99183000000001,
     -31.40621
 ],
-  "geometry": {"coordinates":[-61.99183000000001,-31.40621],"type":"Point"}
+  "geometry": {"coordinates":[-61.99183,-31.40621],"type":"Point"}
 }

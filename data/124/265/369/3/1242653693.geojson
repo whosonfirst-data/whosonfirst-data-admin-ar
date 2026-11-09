@@ -59,7 +59,7 @@
         "wk:page":"Coronel_Juan_Sol%C3%A1"
     },
     "wof:country":"AR",
-    "wof:geomhash":"f446c6226dced313bb08cfba7c608124",
+    "wof:geomhash":"374825833683339ac1d6f5c2381a6fd8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -85,5 +85,5 @@
     -62.88333000000001,
     -23.46667
 ],
-  "geometry": {"coordinates":[-62.88333000000001,-23.46667],"type":"Point"}
+  "geometry": {"coordinates":[-62.88333,-23.46667],"type":"Point"}
 }

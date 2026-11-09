@@ -63,7 +63,7 @@
         "wk:page":"Coig_River"
     },
     "wof:country":"AR",
-    "wof:geomhash":"e548022ec401de701747dd090b757975",
+    "wof:geomhash":"4503d1059128c63fb029a72650067214",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -88,5 +88,5 @@
     -69.22346999999999,
     -50.95453
 ],
-  "geometry": {"coordinates":[-69.22346999999999,-50.95453],"type":"Point"}
+  "geometry": {"coordinates":[-69.22347,-50.95453],"type":"Point"}
 }

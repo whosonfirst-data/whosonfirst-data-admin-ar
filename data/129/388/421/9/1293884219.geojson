@@ -64,7 +64,7 @@
         "wk:page":"Gan_Gan"
     },
     "wof:country":"AR",
-    "wof:geomhash":"4b8b6322ba00c0963e6636addf3f673d",
+    "wof:geomhash":"c3fd27bcb0529a1ba4e5ebefd69b6062",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,5 +90,5 @@
     -68.28506999999999,
     -42.52242
 ],
-  "geometry": {"coordinates":[-68.28506999999999,-42.52242],"type":"Point"}
+  "geometry": {"coordinates":[-68.28507,-42.52242],"type":"Point"}
 }

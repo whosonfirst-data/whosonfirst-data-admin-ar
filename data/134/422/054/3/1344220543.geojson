@@ -52,7 +52,7 @@
         "wk:page":"R%C3%ADo_del_Valle%2C_Salta"
     },
     "wof:country":"AR",
-    "wof:geomhash":"c493838d5ae5a0986b3877b2a2cdae72",
+    "wof:geomhash":"2d4098ac3f598fce3176892c6acd644c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -64.20014,
     -24.67467000000001
 ],
-  "geometry": {"coordinates":[-64.20014,-24.67467000000001],"type":"Point"}
+  "geometry": {"coordinates":[-64.20014,-24.67467],"type":"Point"}
 }

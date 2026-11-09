@@ -52,7 +52,7 @@
         "wk:page":"Suriyaco"
     },
     "wof:country":"AR",
-    "wof:geomhash":"c3a70d06c5194ffb8b530251492d11e8",
+    "wof:geomhash":"b98719742f9ece7e787adc2898cf32a2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -67.15368000000001,
     -28.53232
 ],
-  "geometry": {"coordinates":[-67.15368000000001,-28.53232],"type":"Point"}
+  "geometry": {"coordinates":[-67.15368,-28.53232],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Cortaderas"
     },
     "wof:country":"AR",
-    "wof:geomhash":"4ea3cd2a3da1cfa5639b9e5669be2f52",
+    "wof:geomhash":"8dcbe65a7dcec28253053baff7aa1516",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,5 +81,5 @@
     -64.99174000000001,
     -32.50482
 ],
-  "geometry": {"coordinates":[-64.99174000000001,-32.50482],"type":"Point"}
+  "geometry": {"coordinates":[-64.99174,-32.50482],"type":"Point"}
 }

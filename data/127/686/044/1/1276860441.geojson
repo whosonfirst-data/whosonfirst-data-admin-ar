@@ -52,7 +52,7 @@
         "wk:page":"Casabindo"
     },
     "wof:country":"AR",
-    "wof:geomhash":"8629dd7a7200ad7631bae1474db617f7",
+    "wof:geomhash":"1808648d8ce8bd148ae90e7dac4f91e1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -66.02438000000001,
     -22.98094
 ],
-  "geometry": {"coordinates":[-66.02438000000001,-22.98094],"type":"Point"}
+  "geometry": {"coordinates":[-66.02438,-22.98094],"type":"Point"}
 }

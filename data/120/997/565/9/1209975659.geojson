@@ -52,7 +52,7 @@
         "wk:page":"Coronel_Arnold%2C_Santa_Fe"
     },
     "wof:country":"AR",
-    "wof:geomhash":"35a5eed59016080c700bdf46e88bd251",
+    "wof:geomhash":"0099fb1cb163a4d7093c6161bdd5c19d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -60.96588000000001,
     -33.10504
 ],
-  "geometry": {"coordinates":[-60.96588000000001,-33.10504],"type":"Point"}
+  "geometry": {"coordinates":[-60.96588,-33.10504],"type":"Point"}
 }

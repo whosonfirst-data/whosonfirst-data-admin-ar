@@ -64,7 +64,7 @@
         "wk:page":"Bandera%2C_Santiago_del_Estero"
     },
     "wof:country":"AR",
-    "wof:geomhash":"0d0b90af3bae7529508bb90a2e5482db",
+    "wof:geomhash":"dba192e200f1c83b260735259b4ebffc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,5 +90,5 @@
     -62.26600000000001,
     -28.8884
 ],
-  "geometry": {"coordinates":[-62.26600000000001,-28.8884],"type":"Point"}
+  "geometry": {"coordinates":[-62.266,-28.8884],"type":"Point"}
 }

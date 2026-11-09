@@ -52,7 +52,7 @@
         "wk:page":"La_Florida_y_Luisiana"
     },
     "wof:country":"AR",
-    "wof:geomhash":"cb9d0c3a6057be8edb26f144551b1729",
+    "wof:geomhash":"64ac46de688eaa4a7a06e8a0ef74ca64",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -78,5 +78,5 @@
     -65.5545,
     -27.22684000000001
 ],
-  "geometry": {"coordinates":[-65.5545,-27.22684000000001],"type":"Point"}
+  "geometry": {"coordinates":[-65.5545,-27.22684],"type":"Point"}
 }
