@@ -158,12 +158,6 @@
     "name:vie_x_variant":[
         "San Pedro"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u4f69\u5fb7\u7f57\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8056\u4f69\u5fb7\u7f85\u6cb3"
-    ],
     "name:zho_x_preferred":[
         "\u8056\u4f69\u5fb7\u7f85"
     ],
@@ -219,7 +213,7 @@
         }
     ],
     "wof:id":421201559,
-    "wof:lastmodified":1690850717,
+    "wof:lastmodified":1794999722,
     "wof:name":"San Pedro",
     "wof:parent_id":1108718105,
     "wof:placetype":"locality",

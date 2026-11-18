@@ -102,9 +102,6 @@
     "name:vie_x_preferred":[
         "H\u1ed3 Mar Chiquita"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u9a6c\u5951\u57fa\u5854\u6e56"
-    ],
     "name:zho_tw_x_preferred":[
         "\u99ac\u5947\u57fa\u5854"
     ],
@@ -131,7 +128,7 @@
         }
     ],
     "wof:id":1360089931,
-    "wof:lastmodified":1636502795,
+    "wof:lastmodified":1794999722,
     "wof:name":"Mar Chiquita",
     "wof:parent_id":421189015,
     "wof:placetype":"locality",
